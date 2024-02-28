@@ -361,7 +361,7 @@ padding: 10px;
 
  .container__seven__guid{
     width: 1100px;
-    height: 500px;
+    height: 600px;
     border-radius: 13px;
  }
 
@@ -405,7 +405,7 @@ padding: 10px;
  .container__eight{
 
     background-color: #FAF1ED;
-    margin-top: 100px;
+    margin-top: 110px;
     height: 450px;
  }
 
@@ -564,6 +564,166 @@ padding: 10px;
     padding: 20px;
     margin-left: 180px;
     
+ }
+
+
+/*poster*/
+
+
+.poster{
+
+   margin-top: 60px;
+   width: 100%;
+}
+
+
+
+
+
+ /*Trending in Travel*/
+
+
+
+ .trending{
+
+   padding: 10px;
+   margin-top: 50px;
+   margin-left: 170px;
+   width: 1100px;
+ }
+
+ .trending h2{
+
+   padding-bottom: 30px;
+ }
+
+ .trending__desc{
+
+   border-bottom: solid black 2px;
+   width: 150px;
+   margin-bottom: 30px;
+   font-weight: bold;
+ }
+
+
+ .trending__one{
+
+   display: flex;
+   gap: 200px;
+   
+ }
+
+ 
+
+ 
+ /*footer*/
+
+
+ /*footer__top*/
+ 
+ .footer{
+
+   margin-top: 20px;
+   background-color: #FAF1ED;
+ }
+
+
+ .footer__top{
+
+   padding-top: 40px;
+   margin-left: 170px;
+   display: flex;
+   gap: 200px;
+   width: 1200px;
 
  }
 
+ .footer__top__one{
+
+   
+   display: flex;
+   gap: 70px;
+   font-size: 14px;
+
+
+ }
+
+
+ 
+
+ /*footer__bottom*/
+
+
+ .footer__bottom{
+
+   padding-top: 10px;
+   margin-left: 170px;
+   width: 1200px;
+ }
+
+ .footer__bottom__one__s1{
+
+   display: flex;
+  
+ }
+
+ .footer__bottom__one__s1 p{
+
+   font-size: smaller;
+ }
+
+
+ .footer__bottom__one{
+
+   display: flex;
+   justify-content: space-between;
+
+ }
+
+
+ .footer__bottom__one__s2{
+
+   width: 500px;
+
+ }
+
+
+ .footer__bottom__one__s2 button{
+
+   background-color: white;
+   width: 150px;
+   height:30px;
+   font-weight: bold;
+   border: solid #E0E0E0 2px;
+   border-radius: 10px;
+
+ }
+
+
+ .footer__bottom__two{
+
+   display: flex;
+   justify-content: space-between;
+   width: 1100px;
+ }
+
+ .footer__bottom__two__s1{
+
+   font-size: small;
+   width: 700px;
+ }
+
+
+#footer__desc{
+
+   font-size: medium;
+   font-weight: bolder;
+   text-decoration: underline;
+}
+
+
+.footer__bottom__two__s2{
+
+   display: flex;
+   gap: 20px;
+}
